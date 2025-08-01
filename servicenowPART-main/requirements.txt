@@ -1,0 +1,12 @@
+psycopg2
+pgvector
+requests
+streamlit
+openai
+pinecone-client
+transformers
+sentence-transformers
+torch
+huggingface_hub
+psycopg2-binary
+bitsandbytes
